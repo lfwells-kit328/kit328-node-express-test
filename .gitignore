@@ -6,3 +6,5 @@ node_modules/
 
 # Docker data (don't commit your local database)
 mongo_data/
+
+docker-compose.override.yaml
