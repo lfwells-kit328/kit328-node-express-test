@@ -1,7 +1,6 @@
 services:
   frontend:
     build: ./frontend
-    container_name: student-frontend
     networks:
       - caddy_network
 
